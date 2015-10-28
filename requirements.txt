@@ -1,1 +1,1 @@
-thumbor>=4.12.2
+thumbor>=5.2.1
